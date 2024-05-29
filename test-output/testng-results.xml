@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-29T11:50:23 IST" name="Suite" finished-at="2024-05-29T11:51:05 IST" duration-ms="41772">
+    <groups>
+    </groups>
+    <test started-at="2024-05-29T11:50:23 IST" name="Total_Scenarios" finished-at="2024-05-29T11:51:05 IST" duration-ms="41772">
+      <class name="LambdaTest.TestScenario_1">
+        <test-method is-config="true" signature="Open_Application()[pri:0, instance:LambdaTest.TestScenario_1@6b927fb]" started-at="2024-05-29T11:50:23 IST" name="Open_Application" finished-at="2024-05-29T11:50:35 IST" duration-ms="11970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_Application -->
+        <test-method signature="Scenario_1()[pri:0, instance:LambdaTest.TestScenario_1@6b927fb]" started-at="2024-05-29T11:50:35 IST" name="Scenario_1" finished-at="2024-05-29T11:50:37 IST" duration-ms="2078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:LambdaTest.TestScenario_1@6b927fb]" started-at="2024-05-29T11:50:37 IST" name="Quit" finished-at="2024-05-29T11:50:37 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- LambdaTest.TestScenario_1 -->
+      <class name="LambdaTest.TestScenario_3">
+        <test-method is-config="true" signature="Open_Application()[pri:0, instance:LambdaTest.TestScenario_3@1afd44cb]" started-at="2024-05-29T11:50:23 IST" name="Open_Application" finished-at="2024-05-29T11:50:37 IST" duration-ms="13806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_Application -->
+        <test-method signature="Scenario_3()[pri:0, instance:LambdaTest.TestScenario_3@1afd44cb]" started-at="2024-05-29T11:50:37 IST" name="Scenario_3" finished-at="2024-05-29T11:51:05 IST" duration-ms="27726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_3 -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:LambdaTest.TestScenario_3@1afd44cb]" started-at="2024-05-29T11:51:05 IST" name="Quit" finished-at="2024-05-29T11:51:05 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- LambdaTest.TestScenario_3 -->
+      <class name="LambdaTest.TestScenario_2">
+        <test-method is-config="true" signature="Open_Application()[pri:0, instance:LambdaTest.TestScenario_2@a514af7]" started-at="2024-05-29T11:50:23 IST" name="Open_Application" finished-at="2024-05-29T11:50:37 IST" duration-ms="14267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_Application -->
+        <test-method signature="Scenario_2()[pri:0, instance:LambdaTest.TestScenario_2@a514af7]" started-at="2024-05-29T11:50:37 IST" name="Scenario_2" finished-at="2024-05-29T11:50:44 IST" duration-ms="6914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_2 -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:LambdaTest.TestScenario_2@a514af7]" started-at="2024-05-29T11:50:44 IST" name="Quit" finished-at="2024-05-29T11:50:45 IST" duration-ms="1214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- LambdaTest.TestScenario_2 -->
+    </test> <!-- Total_Scenarios -->
+  </suite> <!-- Suite -->
+</testng-results>
